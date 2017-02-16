@@ -1,0 +1,61 @@
+{
+  "patient":{
+    "person":{
+      "names":[
+        {
+          "givenName":"Performance",
+          "middleName":"Test",
+          "familyName":"Patient",
+          "display":"Performance Patient",
+          "preferred":false
+        }
+      ],
+      "addresses":[
+        {
+          "address1":"Ward123",
+          "cityVillage":"Baradadevi",
+          "countyDistrict":"Achham",
+          "country":"Nepal"
+        }
+      ],
+      "birthdate":"1972-01-25T11:52:29.046+0530",
+      "gender":"M",
+      "birthtime":null,
+      "attributes":[
+        {
+          "attributeType":{
+            "uuid":"72b12fdd-5301-11e5-859e-37ebf2fd1f9e"
+          },
+          "voided":true
+        },
+        {
+          "attributeType":{
+            "uuid":"44c0969a-9b11-11e4-9783-005056822b0b"
+          },
+          "value":"2 - Janajati",
+          "hydratedObject":"e2cf2aea-9b0c-11e4-9783-005056822b0b"
+        },
+        {
+          "attributeType":{
+            "uuid":"44c2469d-9b11-11e4-9783-005056822b0b"
+          },
+          "voided":true
+        }
+      ],
+      "deathDate":null,
+      "causeOfDeath":""
+    },
+    "identifiers":[
+      {
+        "identifierSourceUuid":"7f74b759-9a45-11e4-9783-005056822b0b",
+        "identifierPrefix":"BAH",
+        "identifierType":"24142e16-28f1-11e4-86a0-005056822b0b",
+        "preferred":true,
+        "voided":false
+      }
+    ]
+  },
+  "relationships":[
+
+  ]
+}
